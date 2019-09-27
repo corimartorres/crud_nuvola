@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost:8080/crud_nuvola';
+$config['base_url'] = 'http://localhost:80/crud_nuvola';
 
 /*
 |--------------------------------------------------------------------------
